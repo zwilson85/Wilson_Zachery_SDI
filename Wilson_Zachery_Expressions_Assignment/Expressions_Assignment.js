@@ -40,4 +40,3 @@ alert("In dog years, you will be"+age+".");
 
 //console.log the answer to check it
 console.log(age);
-f
