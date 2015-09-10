@@ -13,7 +13,7 @@ var name = prompt("Whats your name?\nPlease type in your name.");
 //Use the variable and say hello
 alert("Welcome "+name+"!");
 
-//figure out age
+//Ask User for age
 var age = prompt("What is your age?");
 
 //console.log the answer to check it
@@ -26,16 +26,13 @@ console.log(name+" you are "+age+" years old.");
 //Figure out a your age in dog years
 var dogYears = prompt("How old are you in dog years?\nLets find out.");
 
-console.log(dogYears);
-
-//Current age * 7
 //Cast the variable as a number when using *
 var dogYears = age * 7;
 
 console.log(dogYears);
 
 //Console.log and alert the final values
-console.log("Your" +age+ * 7 , "you will be" +age+".");
+console.log("Your" +age+ * "7" = +age+".");
 alert("In dog years, you will be"+age+".");
 
 //console.log the answer to check it
