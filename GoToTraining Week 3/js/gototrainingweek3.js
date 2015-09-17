@@ -12,7 +12,7 @@ alert("Testing to see if connected.");
 //Array - variale that holds multiple variables
 //Index # of an array always starts with 0!!
 
-var bowlOfFruit = ["apple", "banana", "pear","peach"];
+var bowlOfFruit = ["apple", "banana", "pear","peach","pear","banana","kiwi","strawberry","pear"];
 
 //See whole array
 console.log(bowlOfFruit);
@@ -83,3 +83,23 @@ console.log("There are "+totalNumPears+" pear(s) in the fruit bowl.");
 
 //Create another variable to track pears
 var pearNumber = 0;
+
+//Create a loop for repetitive code.
+
+// For Loop Structure
+//for(initializing a counting variable; condition to test; increment of change){ code to run for each time we loop }
+
+for(var i =0; i<bowlOfFruit.length; i++){
+    console.log("Inside the loop, i ="+i);
+    console.log(bowlOfFruit[i]);
+    //Test if the array item is pear
+    if(bowlOfFruit[i]==="pear") {
+        console.log("Found a pear!");
+        pearNumber++;
+    }
+}
+
+console.log("The total number of pears in the bowl is" +pearNumber);
+
+
+
