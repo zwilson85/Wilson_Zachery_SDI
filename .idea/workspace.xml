@@ -4,7 +4,6 @@
     <list default="true" id="099319da-0742-42ba-bc7e-05c7b8c06bca" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wilson_Zachery_Conditionals_Assignment/js/ConditionalsAssignment.js" afterPath="$PROJECT_DIR$/Wilson_Zachery_Conditionals_Assignment/js/ConditionalsAssignment.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoToTraining Week 3/js/gototrainingweek3.js" afterPath="$PROJECT_DIR$/GoToTraining Week 3/js/gototrainingweek3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Wilson_Zachery_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="ConditionalsAssignment.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Wilson_Zachery_Conditionals_Assignment/js/ConditionalsAssignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8662704">
-              <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.82763743">
+              <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -527,8 +526,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wilson_Zachery_Conditionals_Assignment/js/ConditionalsAssignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8662704">
-          <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.82763743">
+          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
           <folding />
         </state>
       </provider>
